@@ -1,9 +1,9 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Super Cheap Towing Auckland
+subtitle: Affordable and Professional Road Side Service 24/7 Call 0800942 4929
 image: /img/supercheap.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Super Cheap Towing ?
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
