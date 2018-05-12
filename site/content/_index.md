@@ -3,12 +3,15 @@ title: Super Cheap Towing Auckland
 subtitle: Affordable and Professional Road Side Service 24/7 Call 0800942 4929
 image: /img/supercheap.jpg
 blurb:
-  heading: Why Super Cheap Towing ?
+  heading: Welcome to Super Cheap Towing Auckland
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Super Cheap  Towing provides towing services that span the entirety of
+    Auckland’s Metropolitan region.We cover all major suburbs of Auckland. 
+
+    The team at Super Cheap Towing are experts in retrieving your vehicle from
+    any unforeseen circumstances quickly and professionally. Our dedicated
+    contact and dispatch centre is available 24/7 to provide assistance and
+    strive towards positive results for each and every job we undertake.
 intro:
   heading: What we offer
   text: >-
