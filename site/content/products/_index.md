@@ -5,8 +5,20 @@ heading: Emergency Towing
 description: testing
 intro:
   blurbs: []
-  heading: Light Machinery Towing
-  description: ''
+  heading: Break Down and Accident Towing
+  description: >-
+    Car accidents can happen quickly and often result in needing emergency
+    assistance as you may not be able to drive any further. Super Cheap  towing
+    services include vehicle recovery and we can arrange with your insurance
+    company to cover the service cost. Our drivers will be happy to transport
+    your vehicle to our closest depot or a workshop of your choice.
+
+    Whether you’re on the motorway or on the roadside, if you need car recovery
+    assistance, our team is available 24/7 and will be there within 30 minutes
+    to help.
+
+
+    Call us on 0800 942 4929 now.
 main:
   heading: Great coffee with no compromises
   description: >
