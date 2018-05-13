@@ -24,7 +24,7 @@ main:
     alt: Coffee beans
     image: /img/machinery.jpg
 testimonials: []
-full_image: /img/farm.jpg
+full_image: /img/towingmain.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
