@@ -1,31 +1,122 @@
-{{ define "main" }}
+<!DOCTYPE HTML>
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+<html>
+	<head>
+		<title>Services</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-{{ partial "4-up" .Params.intro }}
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
 
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Super Cheap Towing Auckland</span>
+								</a>
+								<div style="float: right;"><a href="tel:0800 942 4929"><h3>PH: 0800 942 4929</h3></a></div>
 
-{{ with .Params.main }}
-<div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
-  </div>
-</div>
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
 
-<!-- Image grid -->
-{{ partial "image-grid" . }}
-{{ end }}
+						</div>
+					</header>
 
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
-</div>
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="generic.html">About Us</a></li>
+							<li><a href="generic1.html">Services</a></li>
+						
+							<li><a href="generic4.html">Contact</a></li>
+						</ul>
+					</nav>
 
-<!-- Full-width image -->
-<!--<img src="{{ .Params.full_image }}" alt="" class="db w-100">-->
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Services</h1>
+							<span class="image main"><img src="images/pic13.jpg" alt="" /></span>
+							<h2>Welcome to Super Cheap Towing Auckland</h2>
+										<h1>Breakdown & Accident Towing</h1>
+										<p>We provide accident and breakdown towing services in Auckland. We will help you in any situation. </p>
+										<h1>Light Machinery Towing</h1>
+										<p>We are equipped with necessary tools, trucks and equipment to get the job done.</p>
+										<h1>Emergency Towing</h1>
+										<p>We work for you around the clock 24-7</p>
+										<h1>Heavy Haulage</h1>
+										<p>Heavy or Light we will take care of you</p>
+										<h1>Beach and Farm Haulage</h1>
+										<p>Give us a call and we will have a solution for you. </p>
+										<h1>Truck Towing and Salvaging</h1>
+										<p>We have a way to get the job done all you need to do is call us or get in touch.</p>
+										<h1>Pipe and Tree Winching</h1>
+										<p>We are equipped with necessary tools, trucks and equipment to get the job done.</p>
+										
+						</div>
+					</div>
 
-{{ partial "table" .Params.pricing }}
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Get in touch</h2>
+								<form method="post" action="mail.php">
+									<div class="field half first">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="field half">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="field">
+										<textarea name="message" id="message" placeholder="Message"></textarea>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send" class="special" /></li>
+									</ul>
+								</form>
+							</section>
+							<section>
+								<h2>Follow</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+									<li><a href="#" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="#" class="icon style2 fa-500px"><span class="label">500px</span></a></li>
+									<li><a href="#" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Super Cheap Towing Auckland. All rights reserved</li><li>Design: <a href="http://www.aaasigns.co.nz">AAA Signs/a></li>
+							</ul>
+						</div>
+					</footer>
 
-{{ end }}
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
