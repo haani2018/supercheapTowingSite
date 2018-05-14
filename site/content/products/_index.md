@@ -68,11 +68,6 @@ full_image: /img/trucktow.jpeg
 pricing:
   heading: ''
   description: ''
-  plans:
-    - description: hell testing
-      items:
-        - items goes here
-      plan: 'Break Down & Accident Towing '
-      price: break down and accident towing
+  plans: []
 ---
 
