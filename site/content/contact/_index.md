@@ -1,9 +1,7 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/logo.jpg
 contact_entries:
-  - heading: Location
-    text: ''
   - heading: ''
     text: ''
 ---
