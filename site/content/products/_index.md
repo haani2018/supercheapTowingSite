@@ -39,7 +39,7 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/supercheap.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Super Cheap Towing
     image: ''
   image3:
     alt: Coffee beans
