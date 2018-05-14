@@ -33,7 +33,7 @@ values:
       your vehicle. To ensure a safe tow our drivers will always conduct an
       onsite assessment upon arrival and will explain what is required before
       starting the vehicle recovery.
-  - heading: Sustainable farming
+  - heading: Emergency Towing
     imageUrl: /img/trucktow.jpeg
     text: >-
       Are you stuck without any petrol?
