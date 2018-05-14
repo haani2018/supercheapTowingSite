@@ -37,15 +37,15 @@ main:
         Extended deck for long wheel base vehicles
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/towing2.jpg
+    image: ''
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/winding.jpg
+    image: ''
   image3:
     alt: Coffee beans
-    image: /img/machinery.jpg
+    image: /img/trucktow.jpeg
 testimonials: []
-full_image: /img/trucktow.jpeg
+full_image: /img/supercheap.jpg
 pricing:
   heading: ''
   description: ''
