@@ -37,7 +37,7 @@ main:
         Extended deck for long wheel base vehicles
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: ''
+    image: /img/supercheap.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: ''
