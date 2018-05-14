@@ -1,5 +1,5 @@
 ---
- <a href="/products" class="btn raise">title: Super Cheap Towing Auckland</a>
+title: Super Cheap Towing Auckland
 subtitle: Affordable and Professional Road Side Service 24/7 Call 0800 942 4929
 image: /img/supercheap.jpg
 blurb:
