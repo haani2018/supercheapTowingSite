@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.jpg
+logo: /img/supercheap.jpg
 contact_entries:
   - heading: ''
     text: ''
