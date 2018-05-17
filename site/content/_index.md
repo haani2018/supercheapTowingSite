@@ -17,9 +17,7 @@ intro:
   text: >
     Our drivers are highly experienced with a wealth of industry knowledge,
     ready and able to assist clients who are probably in a stressful situation.
-    <div class="tc">
-      <a href="/values" class="btn raise">Services</a>
-    </div>
+  
     Call us today on 0800 942 4929 or cell phone 021 532 228.
 
     Private and Casual Towing,Courtesy and Relocation Towing,
