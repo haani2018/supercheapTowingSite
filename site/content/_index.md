@@ -7,7 +7,7 @@ image: /img/supercheap.jpg
 blurb:
   heading: 'Welcome to Super Cheap Towing '
   text: >-
-    <li> <a href="/ class="link">Super Cheap Towing</a></li> provides towing services that span the entirety of
+    Super Cheap Towing provides towing services that span the entirety of
     Auckland’s Metropolitan region.We cover all major suburbs of Auckland. 
 
     The team at Super Cheap Towing are experts in retrieving your vehicle from
