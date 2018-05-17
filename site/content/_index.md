@@ -1,5 +1,5 @@
 ---
-title: Super Cheap Towing Auckland
+title: Super Cheap Towing 
 subtitle: >-
   Affordable and Professional Road Side Service 24/7 Call 0800 942 4929,Mobile:
   021 532 228
