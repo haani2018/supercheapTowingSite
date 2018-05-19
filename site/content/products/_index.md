@@ -42,8 +42,8 @@ main:
     alt: Super Cheap Towing
     image: ''
   image3:
-    alt: Coffee beans
-    image: /img/trucktow.jpeg
+    alt: ''
+    image: ''
 testimonials: []
 full_image: /img/supercheap.jpg
 pricing:
