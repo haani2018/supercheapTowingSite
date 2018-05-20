@@ -34,7 +34,7 @@ values:
       onsite assessment upon arrival and will explain what is required before
       starting the vehicle recovery.
   - heading: Emergency Towing
-    imageUrl: /img/trucktow.jpeg
+    imageUrl: ''
     text: >-
       Are you stuck without any petrol?
 
