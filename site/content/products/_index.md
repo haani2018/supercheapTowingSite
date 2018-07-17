@@ -24,17 +24,15 @@ intro:
         Salvaging or vehicles stuck off the road
         All roadside assistance; jump starts, unlocks, fuel, tyre change
 main:
-  heading: Havy Salvage Trucks
+  heading: Motor Bike Towing
   description: >
-    Our fully equipped salvaging trucks have been designed to meet the
-    requirement of serious accidents and difficult accident recoveries. The
-    crane or jib can retrieve vehicles that have gone off the road, turned
-    upside down, or have missing wheels. Also available for moving other heavy
-    objects for transportation.
+    At Super Cheap Towing we  meet the requirement of serious accidents and
+    difficult accident recoveries. we can easily tow motor bikes in and around
+    auckland south,central and north suburbs.Call us on our free phone 0800 942
+    49 29 or give us a call on mobile phone 021 532 228 we will be there for all
+    your towing needs.
 
-        Fully Operational Crane
-        Stabilising legs allowing extra reach
-        Extended deck for long wheel base vehicles
+        
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/supercheap.jpg
